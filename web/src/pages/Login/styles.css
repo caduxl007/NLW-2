@@ -1,0 +1,103 @@
+#page-login{
+    width: 100vw;
+    height: 100vh;
+    background-color: #e5e5e5;
+    padding-top: 1rem;
+
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+#page-login img{
+    height: 100%;
+}
+
+.login{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.login > h2 {
+    padding: 20px 0;
+    color: #32264D;
+    font: 600 2.6rem Poppins;
+    position: relative;
+    right: 8rem;
+}
+
+.group-input input {
+    width: 30rem;
+    height: 5.5rem;
+    border-radius: 0.6rem;
+    border: 0.1rem solid #ccc;
+    line-height: 4rem;
+    padding-left: 0.6rem;
+    font: 500 1.4rem Poppins;
+}
+
+.detalhes-login{
+    margin: 1rem 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.detalhes-login .lembrar-me label.nao-clicado {
+    width: 1rem;
+    height: 1rem;
+    background: blue;
+    display: block;
+    position: relative;
+    top: 1.5rem;
+    border-radius: 0.2rem;
+}
+
+.detalhes-login .lembrar-me label.clicado {
+    width: 1rem;
+    height: 1rem;
+    background: green;
+    display: block;
+    position: relative;
+    top: 1.5rem;
+    border-radius: 0.2rem;
+}
+
+.detalhes-login .lembrar-me p {
+    font: 300 1.4rem Poppins;
+    margin-left: 2rem;
+}
+
+.detalhes-login .esquecir-senha .link {
+    text-decoration: none;
+    color: var(--color-text);
+    font: 300 1.4rem Poppins;
+    position: relative;
+    top: 0.7rem;
+}
+
+.group-input button {
+    margin-top: 2rem;
+    width: 30rem;
+    height: 4rem;
+    border: 0;
+    border-radius: 0.6rem;
+    background: #ccc;
+    cursor: pointer;
+    font: 400 1.4rem Archivo;
+}
+
+.group-input button:hover {
+    background: #bbb;
+}
+
+.cadastrar {
+    margin-top: 10rem;
+}
+
+.cadastrar div.sem-conta {
+    display: flex;
+    margin-right: 5rem;
+    justify-content: space-between;
+}
