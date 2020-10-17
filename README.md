@@ -1,2 +1,8 @@
 # NLW-2
-Projeto desenvolvido, com ReactJS, NodeJS e ReactNative na semana NLW da Rockeseat.
+Projeto desenvolvido na semana Next Level Week da Rocketseat.
+
+# Tecnologias
+- ReactJS
+- NodeJS
+- ReactNative
+- TypeScript
