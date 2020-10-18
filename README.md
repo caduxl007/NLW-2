@@ -6,3 +6,4 @@ Projeto desenvolvido na semana Next Level Week da Rocketseat.
 - NodeJS
 - ReactNative
 - TypeScript
+- Expo
