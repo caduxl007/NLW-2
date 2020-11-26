@@ -17,6 +17,6 @@ O Proffy é uma plataforma de estudos online que ajuda pessoas a encontrarem pro
 # 📲 Layout 
 
 - <a href="https://www.figma.com/file/GHGS126t7WYjnPZdRKChJF/Proffy-Web" > Layout Web </a>
-- <a href="https://www.figma.com/file/e33KvgUpFdunXxJjHnK7CG/Proffy-Mobile?node-id=0%3A1" > Layout Web </a>
+- <a href="https://www.figma.com/file/e33KvgUpFdunXxJjHnK7CG/Proffy-Mobile?node-id=0%3A1" > Layout Mobile </a>
 
 Para acessar o layout basta apenas criar uma conta no <a href="https://www.figma.com/" > Figma </a>.
